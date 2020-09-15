@@ -1,0 +1,2 @@
+round_epochs,loss,f1_score,val_loss,val_f1_score,batch_size,dropout,lr,optimizer,tokens,units
+1,0.983759991476469,0.79281163,0.6753131769171203,0.8628109,64,0.1,0.001,Adam,20,100
