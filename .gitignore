@@ -1,6 +1,12 @@
 .ipynb_checkpoints
-data/*
+data/data.csv
+data/idwiki-latest-pages-articles.xml.bz2
+data/wiki.id.case.text
 notebooks/.ipynb_checkpoints
 notebooks/others/*
-checkpoint/*
-src/*
+checkpoint/w2vec_wiki_id_case
+checkpoint/w2vec_wiki_id_case.trainables.syn1neg.npy
+checkpoint/w2vec_wiki_id_case.wv.vectors.npy
+src/data1
+src/data2
+src/parser.py
